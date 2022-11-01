@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Your Name
+title: Diana Pham
 description: subtitle | affiliations | motto
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /0xdpham.github.io #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
@@ -13,12 +13,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
+twitter: "https://twitter.com/the_phamasaur"
 linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+stackoverflow: "https://meta.stackexchange.com/users/1278430/dpham"
+github: "https://github.com/0xdpham"
+researchgate: "https://www.researchgate.net/profile/Diana-Pham-3"
+orcid: "https://orcid.org/0000-0002-3785-2333"
 quora: "#"
 instagram: "#"
 facebook: "#"
