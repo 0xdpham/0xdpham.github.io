@@ -1,6 +1,6 @@
 ### your site title here
 
-title: Diana Pham
+title: Your Name
 description: subtitle | affiliations | motto
 
 baseurl: /gradfolio #name of GitHub repository
@@ -13,11 +13,11 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "https://twitter.com/the_phamasaur"
+twitter: "#"
 linkedin: "#"
 stackoverflow: "#"
 github: "#"
-researchgate: "https://www.researchgate.net/profile/Diana-Pham-3"
+researchgate: "#"
 orcid: "#"
 quora: "#"
 instagram: "#"
