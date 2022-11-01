@@ -4,8 +4,8 @@ title: Diana Pham
 description: Student Researcher | The University of Texas at Arlington | The way to be believed is to make the truth incredible.
 
 
-baseurl: /0xdpham.github.io #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl: "/" #name of GitHub repository
+url: "https://0xdpham.github.io" #custom url to be used instead of GitHub repository
 email: dianapham@tuta.io
 
 # Pagination
