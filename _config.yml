@@ -1,11 +1,12 @@
 ### your site title here
 
 title: Diana Pham
-description: subtitle | affiliations | motto
+description: Student Researcher | The University of Texas at Arlington | The way to be believed is to make the truth incredible.
+
 
 baseurl: /0xdpham.github.io #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: dianapham@tuta.io
 
 # Pagination
 paginate: 4
@@ -17,8 +18,8 @@ twitter: "https://twitter.com/the_phamasaur"
 linkedin: "#"
 stackoverflow: "https://meta.stackexchange.com/users/1278430/dpham"
 github: "https://github.com/0xdpham"
-researchgate: "https://www.researchgate.net/profile/Diana-Pham-3"
-orcid: "https://orcid.org/0000-0002-3785-2333"
+researchgate: "#https://www.researchgate.net/profile/Diana-Pham-3"
+orcid: "#https://orcid.org/0000-0002-3785-2333"
 quora: "#"
 instagram: "#"
 facebook: "#"
